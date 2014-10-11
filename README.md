@@ -6,13 +6,13 @@ Learning_Latex
 ##数学公式太长要断行
 
 下面的是是对[x+y+z+w+r]进行断行
-        \begin{align}
-        h(x)&=x+y\\
-        \begin{split}
-            &=\left[ x+y+z \right.\\
-            &\left. +w+r \right]
-        \end{split}
-        \end{align}
+         \begin{align}
+         h(x)&=x+y\\
+         \begin{split}
+             &=\left[ x+y+z \right.\\
+             &\left. +w+r \right]
+         \end{split}
+         \end{align}
 
 ##数学公式进行编号
 
